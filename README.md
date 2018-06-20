@@ -1,0 +1,2 @@
+# susiwong
+mining bitcoin
